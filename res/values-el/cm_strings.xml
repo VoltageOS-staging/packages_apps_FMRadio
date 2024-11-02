@@ -18,4 +18,9 @@
     <string name="notif_previous">Προηγούμενο</string>
     <string name="notif_stop">Διακοπή</string>
     <string name="notif_next">Επόμενο</string>
+    <string name="channel_playback_name">Αναπαραγωγή FM</string>
+    <string name="channel_playback_description">Στοιχεία ελέγχου αναπαραγωγής FM στη γραμμή ειδοποιήσεων</string>
+    <string name="channel_record_name">Εγγραφή FM</string>
+    <string name="channel_record_description">Στοιχεία εγγραφής FM στη γραμμή ειδοποιήσεων</string>
+    <string name="missing_required_permission">Οι άδειες απορρίφθηκαν. Μπορείτε να τις αλλάξετε στις Ρυθμίσεις &gt; Εφαρμογές.</string>
 </resources>
